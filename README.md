@@ -44,8 +44,7 @@ Open `cmd.exe` or `PowerShell`, and run:
 riscv-none-elf-gcc --version
 ```
 Expected Output
-
-[Screenshot 2025-06-08 172121](https://github.com/user-attachments/assets/c62fdee7-3b88-4afb-b637-05a26ad72dbd)
+![Screenshot 2025-06-08 172121](https://github.com/user-attachments/assets/30b6590c-c09f-46f2-abed-ce5fab5553c4)
 
 ```sh
 riscv-none-elf-gcc (xPack GNU RISC-V Embedded GCC) 12.2.0
