@@ -14,7 +14,6 @@ riscv64-unknown-elf-gcc -march=rv32imc -mabi=ilp32 -S -O0 hello.c
 ```
 ✅ This generated an assembly file: hello.s
 
-🔍 Assembly Analysis
 🔧 Function Prologue
 The beginning of the main function sets up the stack and frame pointer:
 
@@ -23,7 +22,6 @@ addi sp, sp, -16     # Allocate stack space
 sw   s0, 12(sp)      # Save s0 (callee-saved register)
 addi s0, sp, 16      # Establish frame pointer
 ```
-🖨️ Print "Hello, RISC-V"
 The characters are printed using memory-mapped I/O (e.g., UART). Instructions include:
 
 *lui + lw: Load UART base address
@@ -42,6 +40,10 @@ At the end of the program:
     j .L2
 ```
 ✅ This is an intentional infinite loop to prevent return, as there’s no operating system to return to in a bare-metal environment.
+
+![Task 3](https://github.com/user-attachments/assets/a5e5f2da-d0b6-4b65-998b-097da2f2a5d2)
+![task3 2](https://github.com/user-attachments/assets/64596fac-8b6e-4b1b-9417-89aaf52a2230)
+
 
 📚 What I Learned
 Learned how to use the -S flag with GCC to generate human-readable assembly.
