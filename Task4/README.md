@@ -1,4 +1,4 @@
-# ✅ Task 3: Hex Dump & Disassembly
+# ✅ Task 4: Hex Dump & Disassembly
 
 ## 📝 Task Description
 The objective of this task was to analyze the compiled ELF file (`hello.elf`) by:
