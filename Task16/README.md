@@ -69,6 +69,8 @@ Expected content:
 Hello from RISC-V!
 
 ```
+![Screenshot from 2025-06-07 13-52-47](https://github.com/user-attachments/assets/d02c3dd6-5de3-472f-8a90-ae460e2a75f4)
+
 🧠 What I Learned
 ✅ How printf() depends only on _write() under the hood
 
