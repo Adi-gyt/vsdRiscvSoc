@@ -5,17 +5,6 @@
 The objective of this task was to step through the RISC-V program execution using `riscv64-unknown-elf-gdb`, set breakpoints, inspect registers, and understand low-level control flow in a bare-metal environment.
 
 ---
-
-## ⚙️ Tools Used
-
-- `riscv64-unknown-elf-gdb`
-- Built-in RISC-V simulator (`target sim`)
-- `hello.elf` from Task 1
-
----
-
-## ✅ Step-by-Step Instructions
-
 ### 🧩 1. Start GDB
 
 ```bash
