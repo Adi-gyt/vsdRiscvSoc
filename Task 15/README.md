@@ -72,6 +72,7 @@ riscv64-unknown-elf-gdb task15.elf
 $1 = 5
 ```
 This confirms the shared counter incremented atomically in a safe region guarded by acquire_lock() and release_lock().
+![Screenshot 2025-06-08 193935](https://github.com/user-attachments/assets/689ff692-f28c-42b5-add8-2a35674a1002)
 
 📚 What I Learned
 Atomic Instructions:
