@@ -38,6 +38,7 @@ qemu-system-riscv32 -nographic -machine virt -bios none -kernel hello.elf
 ```
 Hello, RISC-V!
 ```
+![Screenshot 2025-06-08 190323](https://github.com/user-attachments/assets/cb342cd9-6ec5-4231-96b5-2b42f9e6b3b9)
 
 🔍 Why This Matters
 📦 Embedded Programming: Bare-metal programming skills are essential for microcontroller and SoC development.
