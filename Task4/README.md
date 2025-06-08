@@ -56,6 +56,8 @@ Press q to quit the viewer
 cat hello.dump
 ```
 This directly prints the full disassembly in the terminal without needing to scroll.
+![Screenshot from 2025-06-06 18-19-53](https://github.com/user-attachments/assets/8666a552-d1f4-4e79-950c-64e0e91bd709)
+
 ![Screenshot from 2025-06-06 18-15-40](https://github.com/user-attachments/assets/b85154d6-5337-4c10-aa3b-7ddff68690d5)
 
 📚 What I Learned
