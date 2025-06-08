@@ -1,5 +1,4 @@
-This folder contains all files and outputs related to Task 1 of the **India RISC-V Chip Tapeout** project.
-# ✅ Task 1: Compile “Hello, RISC-V”
+# ✅ Task 2: Compile “Hello, RISC-V”
 ## 📝 Task Description
 The objective of this task was to write a minimal C program that prints `"Hello, RISC-V"` and cross-compile it using the **RISC-V GCC toolchain** targeting the `rv32imc` architecture. The goal was to produce a valid RISC-V ELF executable and verify the architecture and format.
 ### 📄 Create a Minimal C Program
@@ -26,7 +25,8 @@ To verify the compiled file format, I used:
 ```bash
 file hello.elf
 ```
-📌 Sample Output:
+📌 Output:![hello](https://github.com/user-attachments/assets/2652b7ff-964a-4d39-b5d3-82a36e71dc56)
+
 ```
 hello.elf: ELF 32-bit LSB executable, UCB RISC-V, version 1 (SYSV), statically linked, not stripped
 ```
