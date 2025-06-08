@@ -48,6 +48,8 @@ Repeat to walk through the program’s execution.
 ```(gdb)
  info registers
 ```
+![Screenshot from 2025-06-06 18-34-49](https://github.com/user-attachments/assets/8b304a65-59ab-4c98-a682-205265c5dbce)
+
 To view specific registers:
 ```
 (gdb) print $a0
