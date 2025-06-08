@@ -83,6 +83,7 @@ SIIIIIIIIIIIIIIIIIIII...
 S → Printed at startup
 
 I → Printed periodically by timer interrupt
+![Screenshot 2025-06-08 181642](https://github.com/user-attachments/assets/62062a4f-3ed7-429c-b207-4dc840008e75)
 
 ✅ Why This Matters
 Interrupts are essential for real-time response in embedded systems.
