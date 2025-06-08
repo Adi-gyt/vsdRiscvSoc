@@ -44,9 +44,12 @@ Open `cmd.exe` or `PowerShell`, and run:
 riscv-none-elf-gcc --version
 ```
 Expected Output
+
+[Screenshot 2025-06-08 172121](https://github.com/user-attachments/assets/c62fdee7-3b88-4afb-b637-05a26ad72dbd)
+
 ```sh
 riscv-none-elf-gcc (xPack GNU RISC-V Embedded GCC) 12.2.0
-```![Screenshot 2025-06-08 172121](https://github.com/user-attachments/assets/c62fdee7-3b88-4afb-b637-05a26ad72dbd)
+```
 Verified that the tool is available in the system path:
 ```
 ```sh
