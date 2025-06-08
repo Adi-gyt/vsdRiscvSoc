@@ -46,12 +46,13 @@ riscv-none-elf-gcc --version
 Expected Output
 ```sh
 riscv-none-elf-gcc (xPack GNU RISC-V Embedded GCC) 12.2.0
-```
+```![Screenshot 2025-06-08 172121](https://github.com/user-attachments/assets/c62fdee7-3b88-4afb-b637-05a26ad72dbd)
 Verified that the tool is available in the system path:
 ```
 ```sh
 where riscv-none-elf-gcc
 ```
+
 Checked compilation using a sample test program:
 ```sh
 riscv-none-elf-gcc -march=rv32imac -mabi=ilp32 -Wall -ffreestanding -O0 -c hello.c -o hello.o
@@ -61,4 +62,4 @@ Ensured correct PATH setup by restarting the terminal and checking tool accessib
 Documented the installed version and confirmed it sup!(https://github.com/user-attachments/assets/8e211691-199c-4efb-9ccd-aca71628ba9f)
 ports rv32imac architecture.
 ---
-[task11]
+
