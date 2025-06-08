@@ -65,6 +65,8 @@ Idx Name      Size     VMA          LMA          File off  Algn
  0 .text      000000XX 00000000     00000000     ...
  1 .data      00000004 10000000     10000000     ...
 ```
+![task11](https://github.com/user-attachments/assets/c65e349b-34c6-4862-adfd-cf8a65102156)
+
 .text placed at 0x00000000 ✅
 
 .data placed at 0x10000000 ✅
