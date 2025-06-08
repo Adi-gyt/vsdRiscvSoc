@@ -56,6 +56,7 @@ Press q to quit the viewer
 cat hello.dump
 ```
 This directly prints the full disassembly in the terminal without needing to scroll.
+![Screenshot from 2025-06-06 18-15-40](https://github.com/user-attachments/assets/b85154d6-5337-4c10-aa3b-7ddff68690d5)
 
 📚 What I Learned
 Learned how to use objdump -d to inspect RISC-V ELF binaries and understand memory layout, opcodes, and instruction mapping.
