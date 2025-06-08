@@ -1,4 +1,8 @@
-# vsdRiscvSoc
+AUTHOR:
+ADITH RAJ
+Student BTech In Electrical And Communication.
+
+# vsdRiscvSoc - week 1
 # India RISC-V Chip Tapeout – Project-Based Learning
 This repository documents my journey through the India RISC-V Chip Tapeout    project-based learning program. The project focuses on setting up and using the  RISC-V Toolchain in a Linux environment, learning about chip design basics, and completing tasks that simulate a hands-on industry-level experience.
 
