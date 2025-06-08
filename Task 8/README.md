@@ -1,6 +1,6 @@
 # ✅ Task 8: Exploring GCC Optimization 🎯
 
-## 📝 Task Goal
+## 📝 Goal
 
 Understand the impact of compiler optimizations in GCC by comparing RISC-V assembly output of the same program compiled with and without optimizations.
 ## ⚙️ Steps Followed
