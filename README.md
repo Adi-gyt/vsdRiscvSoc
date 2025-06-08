@@ -60,8 +60,5 @@ Checked compilation using a sample test program:
 riscv-none-elf-gcc -march=rv32imac -mabi=ilp32 -Wall -ffreestanding -O0 -c hello.c -o hello.o
 riscv-none-elf-ld -T linker.ld hello.o -o hello.elf
 ```
-Ensured correct PATH setup by restarting the terminal and checking tool accessibility.
-Documented the installed version and confirmed it sup!(https://github.com/user-attachments/assets/8e211691-199c-4efb-9ccd-aca71628ba9f)
-ports rv32imac architecture.
----
+
 
