@@ -61,6 +61,9 @@ void lock_acquire() {
     } while (tmp);  // Loop until store succeeds
 }
 
+```
+![Screenshot from 2025-06-07 00-45-28](https://github.com/user-attachments/assets/c2b8f9f5-0bb1-4aef-b3fa-b2de05bd759e)
+
 ##Important Points
 
 rv32imac includes atomic memory instructions, making it ideal for multithreaded and OS-level development.
