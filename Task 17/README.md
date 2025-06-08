@@ -43,6 +43,8 @@ $1 = 305419896   # Decimal form of 0x12345678
 (gdb) x/4bx &u
 0x80200010: 0x78 0x56 0x34 0x12
 ```
+![Screenshot from 2025-06-07 13-55-12](https://github.com/user-attachments/assets/1cc09c6b-688d-44c1-b331-02920c641fcc)
+
 Result:
 The bytes are stored in memory as 0x78 0x56 0x34 0x12, confirming that RISC-V uses little-endian format (least significant byte at the lowest memory address).
 
