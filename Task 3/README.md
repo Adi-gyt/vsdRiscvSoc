@@ -1,4 +1,4 @@
-# ✅ Task 2: From C to Assembly
+# ✅ Task 3: From C to Assembly
 
 ## 📝 Task Description
 The objective of this task was to convert the `hello.c` program into RISC-V assembly using the RISC-V GCC toolchain, and analyze the resulting assembly code to understand how basic C constructs are translated for the `rv32imc` architecture.
