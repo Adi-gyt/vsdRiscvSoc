@@ -27,6 +27,8 @@ Removes unused code and simplifies instruction flow.
 diff hello_O0.s hello_O2.s
 ```
 This command shows line-by-line differences between the two versions of the assembly code.
+![Screenshot from 2025-06-06 18-45-26](https://github.com/user-attachments/assets/aea6318a-1dc3-4203-b478-8998f7c53c0e)
+![Screenshot from 2025-06-06 18-45-45](https://github.com/user-attachments/assets/206e00f6-1b6c-408c-867a-c87eb46490c7)
 
 📊 Observations from diff Output
 Aspect	-O0 Version	-O2 Version
